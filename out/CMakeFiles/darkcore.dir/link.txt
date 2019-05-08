@@ -1,0 +1,2 @@
+/usr/bin/ar qc lib/libdarkcore.a  CMakeFiles/darkcore.dir/core/Solver.cpp.o CMakeFiles/darkcore.dir/core/Generator.cpp.o
+/usr/bin/ranlib lib/libdarkcore.a

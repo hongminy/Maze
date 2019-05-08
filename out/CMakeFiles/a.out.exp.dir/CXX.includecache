@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/darkmaze/MazeFactory.hpp
+memory
+-
+
+/home/ics46/projects/proj1/exp/test.cpp
+memory
+-
+MazeFactory.hpp
+/home/ics46/projects/proj1/exp/MazeFactory.hpp
+Generator.hpp
+/home/ics46/projects/proj1/exp/Generator.hpp
+iostream
+-
+
